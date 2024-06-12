@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JMRead120
-- 👀 I’m interested in Bookmarklets, and Gamese
+- 👀 I’m interested in Bookmarklets, and Games
 - 🌱 I’m currently learning how to write javascript
 - 💞️ I’m looking to collaborate on bookmarklets
-- 📫 How to reach me jaydenread12@icloud.com/757-386-9849 (Text not call)
+- 📫 How to reach me jaydenread1212@gmail.com/757-386-9849 (Text not call)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im 13
 
